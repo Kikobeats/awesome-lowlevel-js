@@ -1,4 +1,4 @@
-# Awesome JavaScript Lowlevel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kikobeats/awesome-lowllevel-js)
+# Awesome JavaScript Lowlevel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kikobeats/awesome-lowlevel-js)
 
 > A 🤓 list of resources related with JavaScript low level layout.
 
